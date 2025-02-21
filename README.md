@@ -1,2 +1,2 @@
-# REPUTATION-F4SE
+# ReputationF4SE
 F4SE Plugin for REPUTATION for faster processing and calculation.
